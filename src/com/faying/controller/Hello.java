@@ -3,7 +3,7 @@ package com.faying.controller;
 public class Hello {
 public static void main(String[] args) {
 	System.out.println("");
-	System.out.println("");
+	JA
 	System.out.println("");
 	System.out.println("");
 }
